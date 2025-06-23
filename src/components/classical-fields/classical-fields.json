@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_classical_fields_classical_fields",
+  "info": {
+    "displayName": "classical_fields"
+  },
+  "options": {},
+  "attributes": {
+    "sub_category": {
+      "type": "string"
+    },
+    "usage": {
+      "type": "text"
+    },
+    "ingredients": {
+      "type": "text"
+    },
+    "dosage_anupan": {
+      "type": "text"
+    },
+    "reference": {
+      "type": "text"
+    },
+    "price_list": {
+      "type": "component",
+      "component": "price-entry.price-entry",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

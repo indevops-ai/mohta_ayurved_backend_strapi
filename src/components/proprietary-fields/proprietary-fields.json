@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_proprietary_fields_proprietary_fields",
+  "info": {
+    "displayName": "proprietary_fields"
+  },
+  "options": {},
+  "attributes": {
+    "price_list": {
+      "type": "component",
+      "component": "price-entry.price-entry",
+      "repeatable": true
+    },
+    "usage": {
+      "type": "text"
+    },
+    "ingredients": {
+      "type": "text"
+    },
+    "dosage": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

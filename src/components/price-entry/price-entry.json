@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_price_entry_price_entries",
+  "info": {
+    "displayName": "price_entry"
+  },
+  "options": {},
+  "attributes": {
+    "sr_no": {
+      "type": "integer"
+    },
+    "qty": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
